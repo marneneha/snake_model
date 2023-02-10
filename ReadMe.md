@@ -11,9 +11,9 @@ Quick table of model is given below
 | Nature of joints  | revolute                           |
 
 Information for axis of all joints and links is in the image below
-
+![snake_axis_image](https://github.com/marneneha/snake_model/blob/master/image_of_snake_model.png)
 All the joints are revoluts joints with motion describe below
-
+![snake_model_motion](https://github.com/marneneha/snake_model/blob/master/sname_model_gif.gif)
 
 This repository only contains model and implementation of snake motion can be found here
 
