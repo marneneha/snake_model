@@ -47,9 +47,8 @@ roslaunch snake template_launch.launch
 ```
 You should see following result
 ## Result
-![]()
+![](https://github.com/marneneha/snake_model/blob/master/Result_launch%20_of_snake_model_repo.png)
 This repository only contains model and you can build your own planner and controller over it.  Implementation of snake motion can be found [here](https://github.com/marneneha/snake)
 
-*Project credits: Neha Marne, Fabrizzio Coronado*
-
-*Software and tools used: Solidworks and sw2urdf*
+[^1]: Project credits: Neha Marne, Fabrizzio Coronado
+[^2]: Software used: Solidworks and sw2ref
