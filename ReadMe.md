@@ -50,5 +50,6 @@ You should see following result
 ![]()
 This repository only contains model and you can build your own planner and controller over it.  Implementation of snake motion can be found [here](https://github.com/marneneha/snake)
 
-[^1]: Project credits: Neha Marne, Fabrizzio Coronado
-[^2]: Software used: Solidworks and sw2ref
+*Project credits: Neha Marne, Fabrizzio Coronado*
+
+*Software and tools used: Solidworks and sw2urdf*
