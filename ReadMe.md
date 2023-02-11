@@ -19,8 +19,8 @@ All the joints are revoluts joints with motion describe below
 ![snake_model_motion](https://github.com/marneneha/snake_model/blob/master/sname_model_gif.gif)
 ## Prerequisite
 
-- OS: Unbuntu 
-- ROS
+- OS: Unbuntu(20.04)
+- ROS(Neotic)
 - Gazebo(Inbuilt in Ubuntu)
 ## How to run
 - Clone
