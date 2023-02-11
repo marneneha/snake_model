@@ -1,3 +1,4 @@
+![](https://github.com/marneneha/snake_model/actions/workflows/snake_model_action.yml/badge.svg)
 # Snake Model
 The Repository gives model of snake robot with 7 joints.
 ## Model information
